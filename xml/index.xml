@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<options>
+
+<!-- You can add description text in the imageName node :  ... > some text </imageName> -->
+<Items>
+	<imageName image="images/advertising/wella_1.jpg" link="" target=""></imageName>
+	<imageName image="images/fashion/capture_1.jpg" link="" target=""></imageName>
+	<imageName image="images/fashion/neo2_1.jpg" link="" target=""></imageName>
+	<imageName image="images/advertising/lanzorote_1.jpg" link="" target=""></imageName>
+	<imageName image="images/advertising/wella_3.jpg" link="" target=""></imageName>
+	<imageName image="images/advertising/wella_4.jpg" link="" target=""></imageName>
+</Items>
+
+
+<TIME>
+	<!-- IF THE VALUE IS DIFFERENT THAN 0, THE SLIDESHOW WILL BE AUTOMATIC AND THE IMAGES WILL CHANGE AFTER THE NUMBER OF SECONDS YOU SET -->
+	<time>6</time>
+	
+	<!-- THE SPEED OF THE ALPHA EFFECT -->
+	<alpha>8</alpha>
+	
+	<!-- SELECTS ALL THE ELEMENTS IN A RANDOM ORDER -->
+	<random>true</random>
+	
+	<colorBorder></colorBorder>
+	
+	<!-- IF THE VALUE IS DIFFERENT THAN "fade" or "scroll", THE SLIDESHOW WILL SELECT THAT EFFECT NUMBER effect1, effect2, effect3, effect4, effect5, effect6, effect7-->
+	<effect>fade</effect>
+	
+	<!-- DISPLAY CONTROL PANEL -->
+	<controlpanel>false</controlpanel>
+	
+	<!-- IN CASE THE EFFECT IS SCROLL - YOU CAN SET THE DIRECTION OF THE SCROLL AND THE SOPEED WILL BE THE ALPHA VALUE (up,down,right and left) -->
+	<scrollDirection>left</scrollDirection>
+	
+	<!-- TITLE TEXT COLOR -->
+	<titleColor>0x000000</titleColor>	
+	</TIME>
+
+</options>

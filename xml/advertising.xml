@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<options>
+
+<!-- You can add description text in the imageName node :  ... > some text </imageName> -->
+<Items>
+	<imageName image="images/advertising/adidas1_1.jpg" link="" target="">ADIDAS</imageName>
+	<imageName image="images/advertising/adidas1_2.jpg" link="" target="">ADIDAS</imageName>
+	<imageName image="images/advertising/adidas1_3.jpg" link="" target="">ADIDAS</imageName>
+	<imageName image="images/advertising/adidas1_4.jpg" link="" target="">ADIDAS</imageName>
+	<imageName image="images/advertising/adidas1_5.jpg" link="" target="">ADIDAS</imageName>
+	<imageName image="images/advertising/adidas1_6.jpg" link="" target="">ADIDAS</imageName>
+	<imageName image="images/advertising/wella_1.jpg" link="" target="">WELLA</imageName>
+	<imageName image="images/advertising/wella_2.jpg" link="" target="">WELLA</imageName>
+	<imageName image="images/advertising/wella_3.jpg" link="" target="">WELLA</imageName>
+	<imageName image="images/advertising/wella_4.jpg" link="" target="">WELLA</imageName>
+	<imageName image="images/advertising/wella_5.jpg" link="" target="">WELLA</imageName>
+	<imageName image="images/advertising/wella_6.jpg" link="" target="">WELLA</imageName>
+	<imageName image="images/advertising/wella_7.jpg" link="" target="">WELLA</imageName>
+	<imageName image="images/advertising/nike_1.jpg" link="" target="">NIKE</imageName>
+	<imageName image="images/advertising/t1models_1.jpg" link="" target="">T1 MODELS</imageName>
+	<imageName image="images/advertising/t1models_2.jpg" link="" target="">T1 MODELS</imageName>
+	<imageName image="images/advertising/t1models_3.jpg" link="" target="">T1 MODELS</imageName>
+	<imageName image="images/advertising/t1models_4.jpg" link="" target="">T1 MODELS</imageName>
+	<imageName image="images/advertising/virginmobile_1.jpg" link="" target="">VIRGIN - NEIL MASSEY</imageName>
+	<imageName image="images/advertising/virginmobile_2.jpg" link="" target="">VIRGIN - NEIL MASSEY</imageName>
+	<imageName image="images/advertising/virginmobile_3.jpg" link="" target="">VIRGIN - NEIL MASSEY</imageName>
+	<imageName image="images/advertising/virginmobile_4.jpg" link="" target="">VIRGIN - NEIL MASSEY</imageName>
+	<imageName image="images/advertising/virginmobile_5.jpg" link="" target="">VIRGIN - NEIL MASSEY</imageName>
+	<imageName image="images/advertising/virginmobile_6.jpg" link="" target="">VIRGIN - NEIL MASSEY</imageName>
+	<imageName image="images/advertising/virginmobile_7.jpg" link="" target="">VIRGIN - NEIL MASSEY</imageName>
+	<imageName image="images/advertising/virginmobile_8.jpg" link="" target="">VIRGIN - NEIL MASSEY</imageName>
+	<imageName image="images/advertising/addidas3_1.jpg" link="" target="">ADIDAS</imageName>
+	<imageName image="images/advertising/addidas3_2.jpg" link="" target="">ADIDAS</imageName>
+	<imageName image="images/advertising/oakley2_1.jpg" link="" target="">FIRETRAP</imageName>
+	<imageName image="images/advertising/oakley2_2.jpg" link="" target="">FIRETRAP</imageName>
+	<imageName image="images/advertising/oakley2_3.jpg" link="" target="">FIRETRAP</imageName>
+	<imageName image="images/advertising/oakley2_4.jpg" link="" target="">FIRETRAP</imageName>
+	<imageName image="images/advertising/oakley_1.jpg" link="" target="">OAKLEY</imageName>
+	<imageName image="images/advertising/oakley_2.jpg" link="" target="">OAKLEY</imageName>
+	<imageName image="images/advertising/oakley_3.jpg" link="" target="">OAKLEY</imageName>
+	<imageName image="images/advertising/oakley_4.jpg" link="" target="">OAKLEY</imageName>
+	<imageName image="images/advertising/oakley_5.jpg" link="" target="">OAKLEY</imageName>
+	<imageName image="images/advertising/oakley_6.jpg" link="" target="">OAKLEY</imageName>
+	<imageName image="images/advertising/oakley_7.jpg" link="" target="">OAKLEY</imageName>
+	<imageName image="images/advertising/oakley_8.jpg" link="" target="">OAKLEY</imageName>
+	<imageName image="images/advertising/oakley_9.jpg" link="" target="">OAKLEY</imageName>
+	<imageName image="images/advertising/oakley_10.jpg" link="" target="">OAKLEY</imageName>
+	<imageName image="images/advertising/getty_1.jpg" link="" target="">GETTY</imageName>
+	<imageName image="images/advertising/getty_2.jpg" link="" target="">GETTY</imageName>
+	<imageName image="images/advertising/getty_3.jpg" link="" target="">GETTY</imageName>
+	<imageName image="images/advertising/vodafone2_1.jpg" link="" target="">VODAFONE</imageName>
+	<imageName image="images/advertising/vodafone2_2.jpg" link="" target="">VODAFONE</imageName>
+	<imageName image="images/advertising/vodafone2_3.jpg" link="" target="">VODAFONE</imageName>
+	<imageName image="images/advertising/lee_1.jpg" link="" target="">LEE NEIL MASSEY</imageName>
+	<imageName image="images/advertising/lee_2.jpg" link="" target="">LEE NEIL MASSEY</imageName>
+	<imageName image="images/advertising/playstation_1.jpg" link="" target="">PLAYSTATION</imageName>
+	<imageName image="images/advertising/shellys_1.jpg" link="" target="">SHELLYS</imageName>
+	<imageName image="images/advertising/shellys_2.jpg" link="" target="">SHELLYS</imageName>
+	<imageName image="images/advertising/shellys_3.jpg" link="" target="">SHELLYS</imageName>
+	<imageName image="images/advertising/shellys_4.jpg" link="" target="">SHELLYS</imageName>
+	<imageName image="images/advertising/addidasoriginals_1.jpg" link="" target="">ADIDAS - HEIKO PRIGGE</imageName>
+	<imageName image="images/advertising/addidasoriginals_2.jpg" link="" target="">ADIDAS - HEIKO PRIGGE</imageName>
+	<imageName image="images/advertising/addidasoriginals_3.jpg" link="" target="">ADIDAS - HEIKO PRIGGE</imageName>
+</Items>
+
+
+	<TIME>
+	<!-- IF THE VALUE IS DIFFERENT THAN 0, THE SLIDESHOW WILL BE AUTOMATIC AND THE IMAGES WILL CHANGE AFTER THE NUMBER OF SECONDS YOU SET -->
+	<time>6</time>
+	
+	<!-- THE SPEED OF THE ALPHA EFFECT -->
+	<alpha>8</alpha>
+	
+	<!-- SELECTS ALL THE ELEMENTS IN A RANDOM ORDER -->
+	<random>false</random>
+	
+	<colorBorder></colorBorder>
+	
+	<!-- IF THE VALUE IS DIFFERENT THAN "fade" or "scroll", THE SLIDESHOW WILL SELECT THAT EFFECT NUMBER effect1, effect2, effect3, effect4, effect5, effect6, effect7-->
+	<effect>fade</effect>
+	
+	<!-- DISPLAY CONTROL PANEL -->
+	<controlpanel>true</controlpanel>
+	
+	<!-- IN CASE THE EFFECT IS SCROLL - YOU CAN SET THE DIRECTION OF THE SCROLL AND THE SOPEED WILL BE THE ALPHA VALUE (up,down,right and left) -->
+	<scrollDirection>left</scrollDirection>
+	
+	<!-- TITLE TEXT COLOR -->
+	<titleColor>0x000000</titleColor>	
+	</TIME>
+
+</options>

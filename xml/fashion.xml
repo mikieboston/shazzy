@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<options>
+
+<!-- You can add description text in the imageName node :  ... > some text </imageName> -->
+<Items>
+	<imageName image="images/fashion/thymann_1.jpg" link="" target="">125 KLAUS THYMANN</imageName>
+	<imageName image="images/fashion/thymann_2.jpg" link="" target="">125 KLAUS THYMANN</imageName>
+	<imageName image="images/fashion/thymann_3.jpg" link="" target="">125 KLAUS THYMANN</imageName>
+	<imageName image="images/fashion/thymann_4.jpg" link="" target="">125 KLAUS THYMANN</imageName>
+	<imageName image="images/fashion/thymann_5.jpg" link="" target="">125 KLAUS THYMANN</imageName>
+	<imageName image="images/fashion/thymann_6.jpg" link="" target="">125 KLAUS THYMANN</imageName>
+	<imageName image="images/fashion/capture_1.jpg" link="" target="">Z MAGAZINE</imageName>
+	<imageName image="images/fashion/capture_2.jpg" link="" target="">Z MAGAZINE</imageName>
+	<imageName image="images/fashion/capture_3.jpg" link="" target="">Z MAGAZINE</imageName>
+	<imageName image="images/fashion/capture_4.jpg" link="" target="">Z MAGAZINE</imageName>
+	<imageName image="images/fashion/125girls_1.jpg" link="" target="">125 MAGAZINE JASON JOYCE</imageName>
+	<imageName image="images/fashion/125girls_2.jpg" link="" target="">125 MAGAZINE JASON JOYCE</imageName>
+	<imageName image="images/fashion/125girls_4.jpg" link="" target="">125 MAGAZINE JASON JOYCE</imageName>
+	<imageName image="images/fashion/125girls_5.jpg" link="" target="">125 MAGAZINE JASON JOYCE</imageName>
+	<imageName image="images/fashion/markt2_1.jpg" link="" target="">EDITORIAL - MARK TODD</imageName>
+	<imageName image="images/fashion/markt2_2.jpg" link="" target="">EDITORIAL - MARK TODD</imageName>
+	<imageName image="images/fashion/markt2_3.jpg" link="" target="">EDITORIAL - MARK TODD</imageName>
+	<imageName image="images/fashion/125swimmingpool_1.jpg" link="" target="">125 MAGAZINE</imageName>
+	<imageName image="images/fashion/125swimmingpool_2.jpg" link="" target="">125 MAGAZINE</imageName>
+	<imageName image="images/fashion/125swimmingpool_3.jpg" link="" target="">125 MAGAZINE</imageName>
+	<imageName image="images/fashion/125swimmingpool_4.jpg" link="" target="">125 MAGAZINE</imageName>
+	<imageName image="images/fashion/125swimmingpool_5.jpg" link="" target="">125 MAGAZINE</imageName>
+	<imageName image="images/fashion/hintmag_1.jpg" link="" target="">HINT MAGAZINE</imageName>
+	<imageName image="images/fashion/hintmag_2.jpg" link="" target="">HINT MAGAZINE</imageName>
+	<imageName image="images/fashion/hintmag_3.jpg" link="" target="">HINT MAGAZINE</imageName>
+	<imageName image="images/fashion/hintmag_4.jpg" link="" target="">HINT MAGAZINE</imageName>
+	<imageName image="images/fashion/hintmag_5.jpg" link="" target="">HINT MAGAZINE</imageName>
+	<imageName image="images/fashion/shazzy_1.jpg" link="" target="">TANK - SEAN AND SENG</imageName>
+	<imageName image="images/fashion/shazzy_2.jpg" link="" target="">TANK - SEAN AND SENG</imageName>
+	<imageName image="images/fashion/shazzy_3.jpg" link="" target="">TANK - SEAN AND SENG</imageName>
+	<imageName image="images/fashion/shazzy_4.jpg" link="" target="">TANK - SEAN AND SENG</imageName>
+	<imageName image="images/fashion/swaroski_1.jpg" link="" target="">SWAROVSKI - MARK ALESKY</imageName>
+	<imageName image="images/fashion/swaroski_2.jpg" link="" target="">SWAROVSKI - MARK ALESKY</imageName>
+	<imageName image="images/fashion/blackbook_1.jpg" link="" target="">BLACK BOX - DIANA SCHEUNEMAN</imageName>
+	<imageName image="images/fashion/blackbook_2.jpg" link="" target="">BLACK BOX - DIANA SCHEUNEMAN</imageName>
+	<imageName image="images/fashion/magwool_1.jpg" link="" target="">MAG WOOL</imageName>
+	<imageName image="images/fashion/magwool_2.jpg" link="" target="">MAG WOOL</imageName>
+	<imageName image="images/fashion/magwool_3.jpg" link="" target="">MAG WOOL</imageName>
+	<imageName image="images/fashion/magwool_4.jpg" link="" target="">MAG WOOL</imageName>
+	<imageName image="images/fashion/tank_1.jpg" link="" target="">TANK MARK ALESKY</imageName>
+	<imageName image="images/fashion/tank_2.jpg" link="" target="">TANK MARK ALESKY</imageName>
+	<imageName image="images/fashion/tank_3.jpg" link="" target="">TANK MARK ALESKY</imageName>
+	<imageName image="images/fashion/lanzorote_1.jpg" link="" target=""></imageName>
+	<imageName image="images/fashion/lanzorote_2.jpg" link="" target=""></imageName>
+	<imageName image="images/fashion/lanzorote_3.jpg" link="" target=""></imageName>
+	<imageName image="images/fashion/lanzorote_4.jpg" link="" target=""></imageName>
+	<imageName image="images/fashion/lanzorote_5.jpg" link="" target=""></imageName>
+	<imageName image="images/fashion/dutch_1.jpg" link="" target="">DEUTSCH FELIX LAMMERS</imageName>
+	<imageName image="images/fashion/dutch_2.jpg" link="" target="">DEUTSCH FELIX LAMMERS</imageName>
+	<imageName image="images/fashion/dutch_3.jpg" link="" target="">DEUTSCH FELIX LAMMERS</imageName>
+	<imageName image="images/fashion/neo2_1.jpg" link="" target="">NEO 2 - MARK TODD</imageName>
+	<imageName image="images/fashion/neo2_2.jpg" link="" target="">NEO 2 - MARK TODD</imageName>
+	<imageName image="images/fashion/neo2_3.jpg" link="" target="">NEO 2 - MARK TODD</imageName>
+</Items>
+
+
+<TIME>
+	<!-- IF THE VALUE IS DIFFERENT THAN 0, THE SLIDESHOW WILL BE AUTOMATIC AND THE IMAGES WILL CHANGE AFTER THE NUMBER OF SECONDS YOU SET -->
+	<time>6</time>
+	
+	<!-- THE SPEED OF THE ALPHA EFFECT -->
+	<alpha>8</alpha>
+	
+	<!-- SELECTS ALL THE ELEMENTS IN A RANDOM ORDER -->
+	<random>false</random>
+	
+	<colorBorder></colorBorder>
+	
+	<!-- IF THE VALUE IS DIFFERENT THAN "fade" or "scroll", THE SLIDESHOW WILL SELECT THAT EFFECT NUMBER effect1, effect2, effect3, effect4, effect5, effect6, effect7-->
+	<effect>fade</effect>
+	
+	<!-- DISPLAY CONTROL PANEL -->
+	<controlpanel>true</controlpanel>
+	
+	<!-- IN CASE THE EFFECT IS SCROLL - YOU CAN SET THE DIRECTION OF THE SCROLL AND THE SOPEED WILL BE THE ALPHA VALUE (up,down,right and left) -->
+	<scrollDirection>left</scrollDirection>
+	
+	<!-- TITLE TEXT COLOR -->
+	<titleColor>0x000000</titleColor>	
+	</TIME>
+
+</options>
